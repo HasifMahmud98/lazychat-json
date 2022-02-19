@@ -1,0 +1,306 @@
+[
+  {
+    "id": 3,
+    "title": "Shoyu",
+    "slug": "shoyu",
+    "thumbnail": "https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/225572859_345990767236735_3916967454728601029_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=VfnfaVp6JRsAX9mgISY&_nc_ht=scontent.fdac5-2.fna&oh=00_AT9KyscQztyFLx5yayu2VTowO8MT8BPHoBNVBpjNWK6djw&oe=6210D279",
+    "images": [
+	"https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/225572859_345990767236735_3916967454728601029_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=VfnfaVp6JRsAX9mgISY&_nc_ht=scontent.fdac5-2.fna&oh=00_AT9KyscQztyFLx5yayu2VTowO8MT8BPHoBNVBpjNWK6djw&oe=6210D279",
+      "https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/177759419_345990813903397_1588583664008093916_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=sZt--1Sc9xYAX-5mGt0&_nc_ht=scontent.fdac5-2.fna&oh=00_AT8ANVQqPuROaxZ5LaY6bzB6Mkc_4ROYQeE-xVj3-UNPew&oe=621109E3",
+      "https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/224695845_345990867236725_7325501238093111645_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=Xd5u023J6moAX_vIUS0&_nc_ht=scontent.fdac5-2.fna&oh=00_AT-UPP2mXYuJnpxAJgFIaRTYIDGnp3KF5hvW-x0rlxyAsg&oe=6212A7AF",
+"https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/225572859_345990767236735_3916967454728601029_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=VfnfaVp6JRsAX9mgISY&_nc_ht=scontent.fdac5-2.fna&oh=00_AT9KyscQztyFLx5yayu2VTowO8MT8BPHoBNVBpjNWK6djw&oe=6210D279",
+      "https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/177759419_345990813903397_1588583664008093916_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=sZt--1Sc9xYAX-5mGt0&_nc_ht=scontent.fdac5-2.fna&oh=00_AT8ANVQqPuROaxZ5LaY6bzB6Mkc_4ROYQeE-xVj3-UNPew&oe=621109E3",
+      "https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/224695845_345990867236725_7325501238093111645_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=Xd5u023J6moAX_vIUS0&_nc_ht=scontent.fdac5-2.fna&oh=00_AT-UPP2mXYuJnpxAJgFIaRTYIDGnp3KF5hvW-x0rlxyAsg&oe=6212A7AF"
+    ],
+    "categories": [
+      {
+        "category_id": 1,
+        "title": "Ramen",
+        "type": "parent",
+        "sub_categories": [
+          {
+            "id": 3,
+            "title": "Shoyu"
+          },
+          {
+            "id": 4,
+            "title": "Shio"
+          },
+          {
+            "id": 5,
+            "title": "Miso"
+          }
+        ]
+      },
+      {
+        "category_id": 3,
+        "title": "Shoyu",
+        "type": "child",
+        "sub_categories": []
+      }
+    ],
+    "general_info": {
+      "description": "100% authentic ramen",
+      "summary": "good",
+      "type": "physical",
+      "sku": "123456",
+      "condition": "used",
+      "brand": "toyota"
+    },
+    "pricing": {
+      "regular_price": "100",
+      "sale_prices": [],
+      "wholesale_prices": [
+        {
+          "wholesale_price": "50",
+          "quantity": "20"
+        }
+      ]
+    },
+    "variations": [],
+    "v_attributes": []
+  },
+  {
+    "id": 4,
+    "title": "miso",
+    "slug": "miso",
+    "thumbnail": "https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/225318640_345990923903386_6158322420894994196_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=6ZWAOyi_85EAX-pDWXF&_nc_ht=scontent.fdac5-1.fna&oh=00_AT9TKA97hGxcYVblEGXGsz94q6MkYb5X-FPcSDXkXFF-Yw&oe=6211C2A9",
+    "images": [
+      "https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/225318640_345990923903386_6158322420894994196_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=6ZWAOyi_85EAX-pDWXF&_nc_ht=scontent.fdac5-1.fna&oh=00_AT9TKA97hGxcYVblEGXGsz94q6MkYb5X-FPcSDXkXFF-Yw&oe=6211C2A9",
+      "https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/224695845_345990867236725_7325501238093111645_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=Xd5u023J6moAX_vIUS0&_nc_ht=scontent.fdac5-2.fna&oh=00_AT-UPP2mXYuJnpxAJgFIaRTYIDGnp3KF5hvW-x0rlxyAsg&oe=6212A7AF",
+      "https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/177759419_345990813903397_1588583664008093916_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=sZt--1Sc9xYAX-5mGt0&_nc_ht=scontent.fdac5-2.fna&oh=00_AT8ANVQqPuROaxZ5LaY6bzB6Mkc_4ROYQeE-xVj3-UNPew&oe=621109E3"
+    ],
+    "categories": [
+      {
+        "category_id": 1,
+        "title": "Ramen",
+        "type": "parent",
+        "sub_categories": [
+          {
+            "id": 3,
+            "title": "Shoyu"
+          },
+          {
+            "id": 4,
+            "title": "Shio"
+          },
+          {
+            "id": 5,
+            "title": "Miso"
+          }
+        ]
+      },
+      {
+        "category_id": 5,
+        "title": "Miso",
+        "type": "child",
+        "sub_categories": []
+      }
+    ],
+    "general_info": {
+      "description": "miso ramen",
+      "summary": "miso ramen",
+      "type": "physical",
+      "sku": "1233456",
+      "condition": "new",
+      "brand": "tesla"
+    },
+    "pricing": {
+      "regular_price": "200",
+      "sale_prices": [],
+      "wholesale_prices": [
+        {
+          "wholesale_price": "150",
+          "quantity": "10"
+        }
+      ]
+    },
+    "variations": [],
+    "v_attributes": []
+  },
+  {
+    "id": 5,
+    "title": "panda ramen",
+    "slug": "panda-ramen",
+    "thumbnail": "https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/225520727_345991067236705_7977376862597137977_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=uNhtDqGew1kAX-oZnkv&_nc_ht=scontent.fdac5-2.fna&oh=00_AT8qPbbK06B5qcG9ovcVJS9EfY_T-FdlxejenLcR8pR8ew&oe=6212A8D5",
+    "images": [
+      "https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/225520727_345991067236705_7977376862597137977_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=uNhtDqGew1kAX-oZnkv&_nc_ht=scontent.fdac5-2.fna&oh=00_AT8qPbbK06B5qcG9ovcVJS9EfY_T-FdlxejenLcR8pR8ew&oe=6212A8D5",
+      "https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/225318640_345990923903386_6158322420894994196_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=6ZWAOyi_85EAX-pDWXF&_nc_ht=scontent.fdac5-1.fna&oh=00_AT9TKA97hGxcYVblEGXGsz94q6MkYb5X-FPcSDXkXFF-Yw&oe=6211C2A9",
+      "https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/177759419_345990813903397_1588583664008093916_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=sZt--1Sc9xYAX-5mGt0&_nc_ht=scontent.fdac5-2.fna&oh=00_AT8ANVQqPuROaxZ5LaY6bzB6Mkc_4ROYQeE-xVj3-UNPew&oe=621109E3"
+    ],
+    "categories": [
+      {
+        "category_id": 1,
+        "title": "Ramen",
+        "type": "parent",
+        "sub_categories": [
+          {
+            "id": 3,
+            "title": "Shoyu"
+          },
+          {
+            "id": 4,
+            "title": "Shio"
+          },
+          {
+            "id": 5,
+            "title": "Miso"
+          }
+        ]
+      },
+      {
+        "category_id": 4,
+        "title": "Shio",
+        "type": "child",
+        "sub_categories": []
+      }
+    ],
+    "general_info": {
+      "description": "some description",
+      "summary": "some sumary",
+      "type": "physical",
+      "sku": "122345",
+      "condition": "new",
+      "brand": "space-x"
+    },
+    "pricing": {
+      "regular_price": "100",
+      "sale_prices": [],
+      "wholesale_prices": [
+        {
+          "wholesale_price": "50",
+          "quantity": "10"
+        }
+      ]
+    },
+    "variations": [],
+    "v_attributes": []
+  },
+  {
+    "id": 6,
+    "title": "test ramen",
+    "slug": "test-ramen",
+    "thumbnail": "https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/225047888_345991260570019_6832782284736659648_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=OqD9bd1RFngAX_aXk7w&_nc_ht=scontent.fdac5-2.fna&oh=00_AT94HtuWEtwcSOYjsXduZErYRmAe8NNgv2TgF1h7dxcYVQ&oe=62110923",
+    "images": [
+      "https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/225047888_345991260570019_6832782284736659648_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=OqD9bd1RFngAX_aXk7w&_nc_ht=scontent.fdac5-2.fna&oh=00_AT94HtuWEtwcSOYjsXduZErYRmAe8NNgv2TgF1h7dxcYVQ&oe=62110923",
+      "https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/225520727_345991067236705_7977376862597137977_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=uNhtDqGew1kAX-oZnkv&_nc_ht=scontent.fdac5-2.fna&oh=00_AT8qPbbK06B5qcG9ovcVJS9EfY_T-FdlxejenLcR8pR8ew&oe=6212A8D5",
+      "https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/224695845_345990867236725_7325501238093111645_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=Xd5u023J6moAX_vIUS0&_nc_ht=scontent.fdac5-2.fna&oh=00_AT-UPP2mXYuJnpxAJgFIaRTYIDGnp3KF5hvW-x0rlxyAsg&oe=6212A7AF"
+    ],
+    "categories": [
+      {
+        "category_id": 1,
+        "title": "Ramen",
+        "type": "parent",
+        "sub_categories": [
+          {
+            "id": 3,
+            "title": "Shoyu"
+          },
+          {
+            "id": 4,
+            "title": "Shio"
+          },
+          {
+            "id": 5,
+            "title": "Miso"
+          }
+        ]
+      },
+      {
+        "category_id": 2,
+        "title": "Sauce",
+        "type": "parent",
+        "sub_categories": []
+      }
+    ],
+    "general_info": {
+      "description": "test description",
+      "summary": "test summary",
+      "type": "physical",
+      "sku": "1123455",
+      "condition": "new",
+      "brand": ""
+    },
+    "pricing": {
+      "regular_price": "10",
+      "sale_prices": [],
+      "wholesale_prices": [
+        {
+          "wholesale_price": "5",
+          "quantity": "5"
+        }
+      ]
+    },
+    "variations": [
+      {
+        "title": "title",
+        "description": null,
+        "price": "288",
+        "wholesale_pricing": [],
+        "images": [
+          "http:\/\/127.0.0.1:8000\/uploads\/items\/620b305ecc063_1300335649.jpg"
+        ],
+        "attributes": [
+          {
+            "id": 1,
+            "value": "xl",
+            "details": {
+              "id": 1,
+              "title": "size",
+              "slug": "size",
+              "values": "[\"xl\",\"xxl\",\"None\",\"s\"]",
+              "enabled": 1,
+              "created_at": "2022-02-13 11:19:50",
+              "updated_at": "2022-02-13 11:24:45"
+            }
+          },
+          {
+            "id": 2,
+            "value": "red",
+            "details": {
+              "id": 2,
+              "title": "Color",
+              "slug": "color",
+              "values": "[\"None\",\"red\"]",
+              "enabled": 1,
+              "created_at": "2022-02-15 10:47:02",
+              "updated_at": "2022-02-15 10:48:41"
+            }
+          }
+        ]
+      }
+    ],
+    "v_attributes": [
+      {
+        "id": 1,
+        "details": {
+          "id": 1,
+          "title": "size",
+          "slug": "size",
+          "values": "[\"xl\",\"xxl\",\"None\",\"s\"]",
+          "enabled": 1,
+          "created_at": "2022-02-13 11:19:50",
+          "updated_at": "2022-02-13 11:24:45"
+        },
+        "values": [
+          "xl"
+        ]
+      },
+      {
+        "id": 2,
+        "details": {
+          "id": 2,
+          "title": "Color",
+          "slug": "color",
+          "values": "[\"None\",\"red\"]",
+          "enabled": 1,
+          "created_at": "2022-02-15 10:47:02",
+          "updated_at": "2022-02-15 10:48:41"
+        },
+        "values": [
+          "red"
+        ]
+      }
+    ]
+  }
+]
