@@ -1,0 +1,193 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Ramen",
+      "sub_categories": [
+        {
+          "id": 3,
+          "title": "Shoyu"
+        },
+        {
+          "id": 4,
+          "title": "Shio"
+        },
+        {
+          "id": 5,
+          "title": "Miso"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Sauce",
+      "sub_categories": []
+    },
+    {
+      "id": 6,
+      "title": "Veggies",
+      "sub_categories": [
+        {
+          "id": 7,
+          "title": "sak"
+        },
+        {
+          "id": 8,
+          "title": "sobji"
+        }
+      ]
+    }
+  ],
+  "pricings": [
+    {
+      "regular_price": "100",
+      "sale_prices": [],
+      "wholesale_prices": [
+        {
+          "wholesale_price": "50",
+          "quantity": "20"
+        }
+      ]
+    },
+    {
+      "regular_price": "200",
+      "sale_prices": [],
+      "wholesale_prices": [
+        {
+          "wholesale_price": "150",
+          "quantity": "10"
+        }
+      ]
+    },
+    {
+      "regular_price": "100",
+      "sale_prices": [],
+      "wholesale_prices": [
+        {
+          "wholesale_price": "50",
+          "quantity": "10"
+        }
+      ]
+    },
+    {
+      "regular_price": "10",
+      "sale_prices": [],
+      "wholesale_prices": [
+        {
+          "wholesale_price": "5",
+          "quantity": "5"
+        }
+      ]
+    },
+    {
+      "regular_price": "200",
+      "sale_prices": [],
+      "wholesale_prices": [
+        {
+          "wholesale_price": "150",
+          "quantity": "10"
+        }
+      ]
+    },
+    {
+      "regular_price": "100",
+      "sale_prices": [],
+      "wholesale_prices": [
+        {
+          "wholesale_price": "50",
+          "quantity": "10"
+        }
+      ]
+    },
+    {
+      "regular_price": "10",
+      "sale_prices": [],
+      "wholesale_prices": [
+        {
+          "wholesale_price": "5",
+          "quantity": "5"
+        }
+      ]
+    },
+    {
+      "regular_price": "200",
+      "sale_prices": [],
+      "wholesale_prices": [
+        {
+          "wholesale_price": "150",
+          "quantity": "10"
+        }
+      ]
+    },
+    {
+      "regular_price": "100",
+      "sale_prices": [],
+      "wholesale_prices": [
+        {
+          "wholesale_price": "50",
+          "quantity": "10"
+        }
+      ]
+    },
+    {
+      "regular_price": "10",
+      "sale_prices": [],
+      "wholesale_prices": [
+        {
+          "wholesale_price": "5",
+          "quantity": "5"
+        }
+      ]
+    }
+  ],
+  "attributes": [
+    {
+      "id": 1,
+      "title": "size",
+      "sub_categories": [
+        {
+          "id": 7,
+          "title": "sak"
+        },
+        {
+          "id": 8,
+          "title": "sobji"
+        }
+      ],
+      "values": [
+        "xl",
+        "xxl",
+        "None",
+        "s"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "color",
+      "sub_categories": [
+        {
+          "id": 7,
+          "title": "sak"
+        },
+        {
+          "id": 8,
+          "title": "sobji"
+        }
+      ],
+      "values": [
+        "None",
+        "red"
+      ]
+    }
+  ],
+  "attributes_title": {
+    "size": "",
+    "color": ""
+  },
+  "brands": [
+    "toyota",
+    "tesla",
+    "space-x",
+    "xyz"
+  ]
+}
